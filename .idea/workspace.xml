@@ -11,11 +11,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="4.3.2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="4.3.2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4.3.2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="347">
               <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myModule.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/myModule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="call_myModule.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/call_myModule.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -45,10 +65,12 @@
         <option value="$PROJECT_DIR$/4.1.1.py" />
         <option value="$PROJECT_DIR$/4.3.1dictionary.py" />
         <option value="$PROJECT_DIR$/4.3.2.py" />
+        <option value="$PROJECT_DIR$/module/myModule.py" />
+        <option value="$PROJECT_DIR$/module/call_myModule.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="363" />
     <option name="y" value="26" />
     <option name="width" value="1346" />
@@ -77,6 +99,11 @@
               <item name="python-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-study" type="462c0819:PsiDirectoryNode" />
+              <item name="module" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -100,7 +127,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.3.2">
+  <component name="RunManager" selected="Python.call_myModule">
     <configuration name="14.1" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -191,19 +218,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Bubble-sort" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="call_myModule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Bubble-sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module/call_myModule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,18 +239,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.14.1" />
       <item index="1" class="java.lang.String" itemvalue="Python.3.3.2" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Bubble-sort" />
-      <item index="3" class="java.lang.String" itemvalue="Python.4.1.1" />
-      <item index="4" class="java.lang.String" itemvalue="Python.4.3.1dictionary" />
-      <item index="5" class="java.lang.String" itemvalue="Python.4.3.2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.4.1.1" />
+      <item index="3" class="java.lang.String" itemvalue="Python.4.3.1dictionary" />
+      <item index="4" class="java.lang.String" itemvalue="Python.4.3.2" />
+      <item index="5" class="java.lang.String" itemvalue="Python.call_myModule" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.4.3.2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.4.3.1dictionary" />
-        <item index="2" class="java.lang.String" itemvalue="Python.3.3.2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4.1.1" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Bubble-sort" />
+        <item index="0" class="java.lang.String" itemvalue="Python.call_myModule" />
+        <item index="1" class="java.lang.String" itemvalue="Python.4.3.2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.4.3.1dictionary" />
+        <item index="3" class="java.lang.String" itemvalue="Python.3.3.2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4.1.1" />
       </list>
     </recent_temporary>
   </component>
@@ -244,13 +271,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2809524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31746033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -351,6 +378,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
           <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/myModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/call_myModule.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
