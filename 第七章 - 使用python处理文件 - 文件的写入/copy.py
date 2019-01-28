@@ -1,0 +1,5 @@
+src = open("hello.txt","r")
+dst = open("hello2.txt","w")
+dst.write(src.read())
+src.close()
+dst.close()
