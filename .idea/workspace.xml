@@ -21,11 +21,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="12.2.8.2复选按钮.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="12.2.8.2复选按钮.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/12/12.2.8.2复选按钮.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="28">
+              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12.2.9消息.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12/12.2.9消息.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="12.2.10滚动条.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12/12.2.10滚动条.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -93,6 +113,8 @@
         <option value="$PROJECT_DIR$/12/12.2.7单选按钮.py" />
         <option value="$PROJECT_DIR$/12/12.2.8.1复选按钮.py" />
         <option value="$PROJECT_DIR$/12/12.2.8.2复选按钮.py" />
+        <option value="$PROJECT_DIR$/12/12.2.9消息.py" />
+        <option value="$PROJECT_DIR$/12/12.2.10滚动条.py" />
       </list>
     </option>
   </component>
@@ -184,8 +206,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.12.2.8.2复选按钮">
-    <configuration name="12.2.5按钮" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.12.2.10滚动条">
+    <configuration name="12.2.10滚动条" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -197,25 +219,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="python-study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.2.5按钮.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="12.2.6输入框" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\lenovo\venv3\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python-study" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.2.6输入框.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.2.10滚动条.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -275,6 +279,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="12.2.9消息" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\lenovo\venv3\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python-study" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12/12.2.9消息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="14.1" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -295,19 +317,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.14.1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.12.2.5按钮" />
-      <item index="2" class="java.lang.String" itemvalue="Python.12.2.6输入框" />
-      <item index="3" class="java.lang.String" itemvalue="Python.12.2.7单选按钮" />
-      <item index="4" class="java.lang.String" itemvalue="Python.12.2.8.1复选按钮" />
-      <item index="5" class="java.lang.String" itemvalue="Python.12.2.8.2复选按钮" />
+      <item index="1" class="java.lang.String" itemvalue="Python.12.2.7单选按钮" />
+      <item index="2" class="java.lang.String" itemvalue="Python.12.2.8.1复选按钮" />
+      <item index="3" class="java.lang.String" itemvalue="Python.12.2.8.2复选按钮" />
+      <item index="4" class="java.lang.String" itemvalue="Python.12.2.9消息" />
+      <item index="5" class="java.lang.String" itemvalue="Python.12.2.10滚动条" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.12.2.8.2复选按钮" />
-        <item index="1" class="java.lang.String" itemvalue="Python.12.2.8.1复选按钮" />
-        <item index="2" class="java.lang.String" itemvalue="Python.12.2.7单选按钮" />
-        <item index="3" class="java.lang.String" itemvalue="Python.12.2.6输入框" />
-        <item index="4" class="java.lang.String" itemvalue="Python.12.2.5按钮" />
+        <item index="0" class="java.lang.String" itemvalue="Python.12.2.10滚动条" />
+        <item index="1" class="java.lang.String" itemvalue="Python.12.2.9消息" />
+        <item index="2" class="java.lang.String" itemvalue="Python.12.2.8.2复选按钮" />
+        <item index="3" class="java.lang.String" itemvalue="Python.12.2.8.1复选按钮" />
+        <item index="4" class="java.lang.String" itemvalue="Python.12.2.7单选按钮" />
       </list>
     </recent_temporary>
   </component>
@@ -379,20 +401,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.3.1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.2.1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -714,8 +722,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/12/12.2.8.2复选按钮.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" column="23" lean-forward="false" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="28">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/12.2.9消息.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="21" lean-forward="true" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12/12.2.10滚动条.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
           <folding />
         </state>
       </provider>
