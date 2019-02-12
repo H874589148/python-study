@@ -8,7 +8,7 @@ scroll = Scrollbar(root, command=l.yview)
 l.configure(yscrollcommand=scroll.set)
 l.pack(side=LEFT)
 scroll.pack(side=RIGHT, fill=Y)
-for item in ['apple', 'orange', 'peach', 'banana', 'melon']:
-#for item in range(20):
+#for item in ['apple', 'orange', 'peach', 'banana', 'melon']:
+for item in range(20):
     l.insert(END, item)
 root.mainloop()
